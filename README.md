@@ -292,16 +292,3 @@ All indispensable JAR files can be found in jar_files directory.
  8. To make a real-time prediction run predict.py file (only data that comes after predict.py is launched is going to be considered)
  
 
-### References
-
-* <https://pytorch.org/docs/stable/index.html>
-* <https://iexcloud.io/docs/api/>
-* <https://www.alphavantage.co/documentation/>
-* <https://www.investing.com/economic-calendar/>
-* <https://www.cnbc.com/>
-* <http://www.cboe.com/vix>
-* <https://www.investopedia.com/terms/c/cot.asp>
-* <https://arxiv.org/pdf/1901.10534.pdf>
-* <https://www.cis.upenn.edu/~mkearns/papers/KearnsNevmyvakaHFTRiskBooks.pdf>
-* <https://www.math.fsu.edu/~aluffi/archive/paper462.pdf>
-* <http://www.math.lsa.umich.edu/seminars_events/fileupload/4044_Microprice_Michigan.pdf>
