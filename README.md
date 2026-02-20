@@ -1,4 +1,4 @@
-# Real-Time Financial Market Data Processing and Prediction
+# Live Financial Data Pipeline with AI
 
 <i>“Without big data, you are blind and deaf and in the middle of a freeway.”</i> – Geoffrey Moore
 
